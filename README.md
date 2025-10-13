@@ -60,7 +60,7 @@ Java Swing desktop app with geocoding, real-time weather, and location-based new
 
 ## GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=vldzio&show_icons=true&theme=radical)
+<!-- ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=vldzio&show_icons=true&theme=radical) -->
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vldzio&layout=compact&theme=radical)
 
