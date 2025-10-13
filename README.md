@@ -20,6 +20,9 @@ I'm a developer passionate about building end-to-end solutions that combine mach
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
 **Frameworks & Tools**  
+
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
+![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=flat&logo=spring&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/-Hugging%20Face-FFD21E?style=flat&logo=huggingface&logoColor=black)
 ![Replicate](https://img.shields.io/badge/-Replicate-000000?style=flat&logo=replicate&logoColor=white)
 ![Java Swing](https://img.shields.io/badge/-Java%20Swing-007396?style=flat&logo=java&logoColor=white)
@@ -28,6 +31,8 @@ I'm a developer passionate about building end-to-end solutions that combine mach
 **AI/ML**  
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
+![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![FLUX](https://img.shields.io/badge/-FLUX-4A90E2?style=flat&logoColor=white)
 ![Gemini](https://img.shields.io/badge/-Gemini-4285F4?style=flat&logo=google&logoColor=white)
 
