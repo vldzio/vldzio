@@ -25,28 +25,6 @@ I'm a developer passionate about building end-to-end solutions that combine mach
 ![FLUX](https://img.shields.io/badge/-FLUX-4A90E2?style=flat&logoColor=white)
 ![Gemini](https://img.shields.io/badge/-Gemini-4285F4?style=flat&logo=google&logoColor=white)
 
-## Featured Projects
-
-### 🎥 [Generative AI-Video](https://github.com/vldzio/replicateVideoGen)
-Automated pipeline generating 30-60s videos from text prompts using Replicate models (Gemini, FLUX, ByteDance)
-- **Tech**: Python, Replicate API, Multi-modal AI
-
-### 📖 [OpenSource-GenAI-Images](https://github.com/vldzio/OpenSource-GenAI)
-Open-source illustrated story generator using Gemini + FLUX.1 Schnell via Hugging Face
-- **Tech**: Python, Gemini API, FLUX.1, Hugging Face
-
-### 💼 [Multimodal Risk Profiling System](https://github.com/vldzio/Multimodal-Risk-Profiling)
-Bankruptcy prediction combining financial metrics + sentiment analysis using FinBERT
-- **Tech**: Python, FinBERT, XGBoost, SMOTE
-
-### 🛒 [Full-Stack E-Commerce Platform](https://github.com/vldzio/Ecommerce-Website)
-Complete shopping platform with secure authentication, cart management, and checkout
-- **Tech**: Java, JDBC, MySQL, HTML/CSS/JS
-
-### 🌤️ [Location-Based Weather & News App](https://github.com/vldzio/News-Application)
-Java Swing desktop app with geocoding, real-time weather, and location-based news
-- **Tech**: Java Swing, REST APIs
-
 ## GitHub Stats
 
 <!-- ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=vldzio&show_icons=true&theme=radical) -->
