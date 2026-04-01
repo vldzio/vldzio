@@ -6,9 +6,8 @@ AI / Full-Stack Developer | Building intelligent systems with code
 
 I'm a developer passionate about building end-to-end solutions that combine machine learning, full-stack development, and creative problem-solving. Currently exploring generative AI and automated content pipelines.
 
-- 🔭 Currently working on: **AI-Powered Video Generation Pipeline**
+- 🔭 Currently working on: **Agentic-AI-Workflows**
 - 🌱 Learning: **Computer Vision, Multi-modal AI systems**
-- 💼 Open to: **Full-time roles in Software Engineering & AI Development**
 - 📫 Reach me: **hariharan.s2003d@gmail.com**
 
 ## Tech Stack
@@ -16,17 +15,7 @@ I'm a developer passionate about building end-to-end solutions that combine mach
 **Languages**  
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=mysql&logoColor=white)
-
-**Frameworks & Tools**  
-
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
-![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=flat&logo=spring&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/-Hugging%20Face-FFD21E?style=flat&logo=huggingface&logoColor=black)
-![Replicate](https://img.shields.io/badge/-Replicate-000000?style=flat&logo=replicate&logoColor=white)
-![Java Swing](https://img.shields.io/badge/-Java%20Swing-007396?style=flat&logo=java&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 
 **AI/ML**  
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
